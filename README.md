@@ -27,7 +27,7 @@ Link to annotation tool https://app.roboflow.com. The annotations is then saved 
 
 ## 3. Import dataset and Visualization
 
-Visualization of mask on the annotated image is done in [car-damage-detection.ipynb](car-damage-detection.ipynb)
+Visualization of mask on the annotated image is done in [Object_Detection_Detecto_car.ipynb](Object_Detection_Detecto_car.ipynb)
 
 ![Visualization of Input 1](media/visualization1.png)   
 
